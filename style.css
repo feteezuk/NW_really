@@ -18,7 +18,7 @@ body{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-  min-height: calc(100vh - 500px);
+ /* min-height: calc(100vh - 500px);*/
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -66,7 +66,7 @@ p{
 }
 div.item2{
 	box-sizing:border-box;
-	max-width:100%;
+	
 }
 div.item2 img{
 	width:100%;
