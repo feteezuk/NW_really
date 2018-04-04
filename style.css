@@ -18,7 +18,7 @@ body{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
- /* min-height: calc(100vh - 500px);*/
+  min-height: calc(100vh - 208px);
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
